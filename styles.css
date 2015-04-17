@@ -17,7 +17,7 @@ aside.more-info img{
 
 .poem{
   list-style-type:none;
-  text-align: center;
+  align: center;
   border: solid 2px black;
   width: 300px;
   height: auto;
